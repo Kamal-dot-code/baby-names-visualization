@@ -1,0 +1,14 @@
+[project]
+name = "baby-names-visualisation"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "altair>=5.3",
+    "pandas>=2.2",
+    "geopandas>=0.14",
+    "jupyterlab>=4.2",
+    "vl-convert-python>=1.6",   # needed for altair .save() to HTML/PNG
+]
+
+[dependency-groups]
+dev = []
