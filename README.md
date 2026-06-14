@@ -15,10 +15,6 @@ hints/              Provided hints notebook + GeoJSON map files
 pyproject.toml      Project dependencies (uv)
 ```
 
-## Data
-
-The dataset `dpt2020.csv` is not included in the repo (too large). Download it from the course page and place it in the project root before running any notebook.
-
 ## How to run
 
 Requires [uv](https://docs.astral.sh/uv/getting-started/installation/).
