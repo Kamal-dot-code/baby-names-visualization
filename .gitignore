@@ -2,4 +2,5 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-*.html
+__MACOSX/
+Names hints(2)/Names hints/dpt2020.csv
